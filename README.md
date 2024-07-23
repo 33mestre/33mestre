@@ -19,9 +19,9 @@ Certified Professional (70+ certifications) with 23 years of experience in desig
 
 ---
 
-### Specialization Certificates
+## Specialization Certificates
 
-- **AWS Cloud Technology Consultant**
+- [AWS Cloud Technology Consultant](https://www.coursera.org/account/accomplishments/specialization/2YWFXBTBA5MG)
   - [Skills for Working as an AWS Cloud Consultant](https://www.coursera.org/account/accomplishments/verify/PF6B33LBTBA8)
   - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/records/5TN4TLHSPBDR)
   - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
@@ -32,23 +32,23 @@ Certified Professional (70+ certifications) with 23 years of experience in desig
   - [Capstone: Following the AWS Well Architected Framework](https://www.coursera.org/account/accomplishments/records/ADGU2ZJY8GS6)
   - [Providing Technical Support for AWS Workloads](https://www.coursera.org/account/accomplishments/records/TDXSDFCJEJTT)
 
-- **AWS Cloud Solutions Architect**
+- [AWS Cloud Solutions Architect](https://www.coursera.org/account/accomplishments/specialization/2H2TB7499JNH)
   - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
   - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/records/RT5SM3G3NZBN)
   - [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/records/R7N5KVCKYVWG)
   - [Exam Prep: AWS Certified Solutions Architect – Associate](https://www.coursera.org/account/accomplishments/records/PXX6L6XCGZQQ)
 
-- **AWS Fundamentals**
+- [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/D2T6DDPUJ3XG)
   - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
   - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/records/RT5SM3G3NZBN)
   - [Exam Prep: AWS Certified Solutions Architect – Associate](https://www.coursera.org/account/accomplishments/records/PXX6L6XCGZQQ)
 
-- **IBM DevOps, Cloud, and Agile Foundations**
+- [IBM DevOps, Cloud, and Agile Foundations](https://www.coursera.org/account/accomplishments/specialization/FDWHBX6Z3YAQ)
   - [Introduction to DevOps](https://www.coursera.org/account/accomplishments/records/NZUT4V4YPLAH)
   - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/Q8876RHGVN49)
   - [Introduction to Agile Development and Scrum](https://www.coursera.org/account/accomplishments/records/SQ39N7GPVLW2)
 
-- **IBM – Key Technologies for Business**
+- [IBM – Key Technologies for Business](https://www.coursera.org/account/accomplishments/specialization/QYMDWJG8GLRW)
   - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/Q8876RHGVN49)
   - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/records/98ZFARCDQM8R)
   - [What is Data Science?](https://www.coursera.org/account/accomplishments/records/SFWWHNK33DK7)
