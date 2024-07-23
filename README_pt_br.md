@@ -7,6 +7,14 @@
 </tr>
 </table>
 
+<h1>SHELSON FERRARI</h1>
+
+**Curriculum Vitae - Versão Brasileira**
+
+[Versão em Inglês - en](./README.md)
+[Versão em Espanhol - es](./README_es.md)
+
+
 > 47 anos, solteiro, brasileiro - São Paulo, Brasil
 
 ## Contatos
