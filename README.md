@@ -19,103 +19,99 @@ Certified Professional (70+ certifications) with 23 years of experience in desig
 
 ---
 
-## Specialization Certificates
+### Specialization Certificates
 
-### AWS Cloud Technology Consultant
+- **AWS Cloud Technology Consultant**
+  - [Skills for Working as an AWS Cloud Consultant](https://www.coursera.org/account/accomplishments/verify/PF6B33LBTBA8)
+  - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/records/5TN4TLHSPBDR)
+  - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
+  - [Automation in the AWS Cloud](https://www.coursera.org/account/accomplishments/records/3B58RKKWTKW9)
+  - [DevOps on AWS and Project Management](https://www.coursera.org/account/accomplishments/records/UKA8REGUTX93)
+  - [Data Analytics and Databases on AWS](https://www.coursera.org/account/accomplishments/records/EW94SWR67646)
+  - [Developing Applications in Python on AWS](https://www.coursera.org/account/accomplishments/records/3PVDR2CWFMR9)
+  - [Capstone: Following the AWS Well Architected Framework](https://www.coursera.org/account/accomplishments/records/ADGU2ZJY8GS6)
+  - [Providing Technical Support for AWS Workloads](https://www.coursera.org/account/accomplishments/records/TDXSDFCJEJTT)
 
-- Skills for Working as an AWS Cloud Consultant
-- Introduction to Information Technology and AWS Cloud
-- AWS Cloud Technical Essentials
-- Automation in the AWS Cloud
-- DevOps on AWS and Project Management
-- Data Analytics and Databases on AWS
-- Developing Applications in Python on AWS
-- Capstone: Following the AWS Well Architected Framework
-- Providing Technical Support for AWS Workloads
+- **AWS Cloud Solutions Architect**
+  - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
+  - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/records/RT5SM3G3NZBN)
+  - [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/account/accomplishments/records/R7N5KVCKYVWG)
+  - [Exam Prep: AWS Certified Solutions Architect – Associate](https://www.coursera.org/account/accomplishments/records/PXX6L6XCGZQQ)
 
-### AWS Cloud Solutions Architect
+- **AWS Fundamentals**
+  - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/records/CCBPJ8NQDTM2)
+  - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/records/RT5SM3G3NZBN)
+  - [Exam Prep: AWS Certified Solutions Architect – Associate](https://www.coursera.org/account/accomplishments/records/PXX6L6XCGZQQ)
 
-- AWS Cloud Technical Essentials
-- Architecting Solutions on AWS
-- Introduction to Designing Data Lakes on AWS
-- Exam Prep: AWS Certified Solutions Architect – Associate
+- **IBM DevOps, Cloud, and Agile Foundations**
+  - [Introduction to DevOps](https://www.coursera.org/account/accomplishments/records/NZUT4V4YPLAH)
+  - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/Q8876RHGVN49)
+  - [Introduction to Agile Development and Scrum](https://www.coursera.org/account/accomplishments/records/SQ39N7GPVLW2)
 
-### AWS Fundamentals
+- **IBM – Key Technologies for Business**
+  - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/Q8876RHGVN49)
+  - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/records/98ZFARCDQM8R)
+  - [What is Data Science?](https://www.coursera.org/account/accomplishments/records/SFWWHNK33DK7)
 
-- AWS Cloud Technical Essentials
-- Architecting Solutions on AWS
-- Exam Prep: AWS Certified Solutions Architect – Associate
+- **Hackerrank**
+  - [Frontend Developer (React)](https://www.hackerrank.com/certificates/64f5d8b936cb)
+  - [Software Engineer](https://www.hackerrank.com/certificates/c327146fcc2d)
+  - [Software Engineer Intern](https://www.hackerrank.com/certificates/4d2de19fe1f7)
 
-### IBM DevOps, Cloud, and Agile Foundations
+### Technical Certifications
 
-- Introduction to DevOps
-- Introduction to Cloud Computing
-- Introduction to Agile Development and Scrum
+- **Database / Data Engineering**
+  - [Oracle Autonomous Database Administration](https://www.coursera.org/account/accomplishments/records/7QK7FELRHMDN)
+  - [Oracle Database Foundations](https://www.coursera.org/account/accomplishments/records/8AZ7ZHGTPX8A)
+  - [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/records/AXKP447EHTM2)
+  - [SQL [Basic]](https://www.hackerrank.com/certificates/a8c9dfc06f73)
+  - [SQL [Intermediate]](https://www.hackerrank.com/certificates/fc749108b8ec)
+  - [SQL [Advanced]](https://www.hackerrank.com/certificates/8eaf18885155)
+  - [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/records/P67LLVHGFSJW)
 
-### IBM – Key Technologies for Business
+- **Full-Stack**
+  - [Full Stack Application Development Capstone Project](https://www.coursera.org/account/accomplishments/records/7TMUTQCC2Q96)
+  - [Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/UC37TVKJE4Q6)
+  - [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/records/QJKTR2UEKLDW)
+  - [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/BXH8WCR7E5RR)
+  - [Rest API [Intermediate]](https://www.hackerrank.com/certificates/2c49094a74fc)
+  - [Problem Solving [Basic]](https://www.hackerrank.com/certificates/e2bbaea5334d)
+  - [Problem Solving [Intermediate]](https://www.hackerrank.com/certificates/105fff34eeb8)
+  - [Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/records/K64TNQ5LTCRB)
+  - [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/records/TR4SR7C7WFXC)
+  - [Software Developer Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/records/A7XNMRXD7MJK)
 
-- Introduction to Cloud Computing
-- Introduction to Artificial Intelligence (AI)
-- What is Data Science?
+- **Front-End**
+  - [Angular [Basic]](https://www.hackerrank.com/certificates/fb8b541780f1)
+  - [Angular [Intermediate]](https://www.hackerrank.com/certificates/f239eee2d523)
+  - [Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/9WUV74DA9J5M)
+  - [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/records/KNK5KCGHYWDP)
+  - [CSS [Basic]](https://www.hackerrank.com/certificates/b77cae214086)
+  - [React [Basic]](https://www.hackerrank.com/certificates/0f371b433017)
+  - [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/records/LM2FPTGWSNFL)
 
-### HackerRank
+- **DevOps**
+  - [Get Started with Cloud Native, DevOps, Agile, and NoSQL](https://www.coursera.org/account/accomplishments/records/KF5J5FW627YE)
+  - [Application Security for Developers and DevOps Professionals](https://www.coursera.org/account/accomplishments/records/YXEC576L69BH)
+  - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/records/N55XUKZJMNXK)
 
-- Frontend Developer (React)
-- Software Engineer
-- Software Engineer Intern
+- **Back-End**
+  - [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/records/SZG85L43M9YC)
+  - [Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/records/Q5FNL86VVQX4)
+  - [Java [Basic]](https://www.hackerrank.com/certificates/86341b73f13b)
+  - [JavaScript [Basic]](https://www.hackerrank.com/certificates/12bc6281d253)
+  - [JavaScript [Intermediate]](https://www.hackerrank.com/certificates/96a9e19d87e9)
+  - [Node.js [Basic]](https://www.hackerrank.com/certificates/79fa786e07bb)
+  - [Node.js [Intermediate]](https://www.hackerrank.com/certificates/c1111002c37b)
+  - [Go [Basic]](https://www.hackerrank.com/certificates/8d9feafd7ba9)
+  - [Go [Intermediate]](https://www.hackerrank.com/certificates/0b6b83089543)
+  - [C# [Basic]](https://www.hackerrank.com/certificates/6b20888c8b52)
+  - [Python [Basic]](https://www.hackerrank.com/certificates/e9436a5b59bb)
+  - [R [Basic]](https://www.hackerrank.com/certificates/7641b1eec9c6)
+  - [R [Intermediate]](https://www.hackerrank.com/certificates/6a97bf08a037)
+  - [JavaScript Back-end Capstone Project](https://www.coursera.org/account/accomplishments/verify/QEBDA4FHAZF7)
+  - [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/records/MU9Q97FPY4N5)
 
----
-
-## Technical Certifications
-
-### Database / Data Engineering
-
-- Oracle Autonomous Database Administration
-- Oracle Database Foundations
-- Introduction to NoSQL Databases
-- SQL [Basic, Intermediate, Advanced]
-- Introduction to Data Engineering
-
-### Full-Stack
-
-- Full Stack Application Development Capstone Project
-- Django Application Development with SQL and Databases
-- Hands-on Introduction to Linux Commands and Shell Scripting
-- Introduction to Software Engineering
-- Rest API [Intermediate]
-- Problem Solving [Basic, Intermediate]
-- Full Stack Software Developer Assessment
-- Getting Started with Git and GitHub
-- Software Developer Career Guide and Interview Preparation
-
-### Front-End
-
-- Angular [Basic, Intermediate]
-- Introduction to HTML, CSS, & JavaScript
-- Developing Front-End Apps with React
-- CSS [Basic]
-- React [Basic]
-- Introduction to Web Development with HTML, CSS, JavaScript
-
-### DevOps
-
-- Get Started with Cloud Native, DevOps, Agile, and NoSQL
-- Application Security for Developers and DevOps Professionals
-- Introduction to Containers w/ Docker, Kubernetes & OpenShift
-
-### Back-End
-
-- Introduction to Back-End Development
-- Developing AI Applications with Python and Flask
-- Java [Basic]
-- JavaScript [Basic, Intermediate]
-- Node.js [Basic, Intermediate]
-- Go [Basic, Intermediate]
-- C# [Basic]
-- Python [Basic]
-- R [Basic, Intermediate]
-- JavaScript Back-end Capstone Project
-- Developing Back-End Apps with Node.js and Express
 
 ---
 
