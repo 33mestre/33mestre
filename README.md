@@ -1,5 +1,8 @@
 # Shelson Ferrari
 
+- [Portuguese version - pt_br](./README_pt_br.md) 
+- [Spanish version - es](./README_es.md)
+
 **Software Engineer | Cloud Architect**
 
 > 47 yo, single, Brazilian - São Paulo, Brazil
@@ -9,6 +12,7 @@
 - [LinkedIn](https://www.linkedin.com/in/shelson/)
 - [WhatsApp](https://wa.me/5511916257345)
 - [Email](mailto:shelson@gmail.com)
+- [GitHub](https://github.com/33mestre)
 
 ---
 
