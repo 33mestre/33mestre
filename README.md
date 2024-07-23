@@ -2,8 +2,7 @@
 
 **Software Engineer | Cloud Architect**
 
-47 yo, single, Brazilian  
-São Paulo, Brazil
+> 47 yo, single, Brazilian - São Paulo, Brazil
 
 ## Contacts
 
@@ -15,7 +14,7 @@ São Paulo, Brazil
 
 ## Professional Summary
 
-Certified Professional (70+ certifications) with 23 years of experience in designing and orchestrating creative, efficient, and effective business solutions through technology. Skilled in multi-cloud solution architecture, full-stack software engineering, and cognitive modern interfaces.
+**Certified Professional (70+ certifications) with 23 years of experience** in designing and orchestrating creative, efficient, and effective business solutions through technology. Skilled in multi-cloud solution architecture, full-stack software engineering, and cognitive modern interfaces.
 
 ---
 
@@ -121,23 +120,23 @@ Certified Professional (70+ certifications) with 23 years of experience in desig
 
 | Skill                | Level (1 to 5) | Experience (yrs) | Type        |
 |----------------------|----------------|------------------|-------------|
-| Java, JavaScript     | 5              | 23               | Professional|
-| Python               | 4              | 5                | Professional|
-| R, C#, Go            | 3              | 1                | Academic    |
-| AWS                  | 5              | 12               | Professional|
-| GCP                  | 4              | 5                | Professional|
-| IBM                  | 3              | 2                | Academic    |
-| Microservices        | 5              | 12               | Professional|
-| BPMS / BPM           | 4              | 5                | Professional|
-| Digital Security     | 5              | 14               | Professional|
-| Distributed Systems  | 5              | 12               | Professional|
-| DevOps               | 4              | 12               | Professional|
-| Domain-Driven Design | 5              | 12               | Professional|
-| Front-End React, Angular| 5          | 10               | Professional|
-| SQL                  | 5              | 22               | Professional|
-| NoSQL                | 5              | 10               | Professional|
-| In-Memory            | 5              | 10               | Professional|
-| Geospatial           | 2              | 2                | Academic    |
+| **Java, JavaScript**     | 5              | 23               | Professional|
+| **Python**               | 4              | 5                | Professional|
+| **R, C#, Go**            | 3              | 1                | Academic    |
+| **AWS**                  | 5              | 12               | Professional|
+| **GCP**                  | 4              | 5                | Professional|
+| **IBM**                  | 3              | 2                | Academic    |
+| **Microservices**        | 5              | 12               | Professional|
+| **BPMS / BPM**           | 4              | 5                | Professional|
+| **Digital Security**     | 5              | 14               | Professional|
+| **Distributed Systems**  | 5              | 12               | Professional|
+| **DevOps**               | 4              | 12               | Professional|
+| **Domain-Driven Design** | 5              | 12               | Professional|
+| **Front-End React, Angular**| 5          | 10               | Professional|
+| **SQL**                  | 5              | 22               | Professional|
+| **NoSQL**                | 5              | 10               | Professional|
+| **In-Memory**            | 5              | 10               | Professional|
+| **Geospatial**           | 2              | 2                | Academic    |
 
 ### Technologies and Tools
 
