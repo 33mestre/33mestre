@@ -10,7 +10,7 @@
 </th>
 
 <th align="left">
-<img width="441" height="1">
+<img width="782" height="1">
 <p> 
 <h1>
 SHELSON FERRARI
