@@ -1,4 +1,6 @@
-# Shelson Ferrari
+|   |   |
+|---|---|
+| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari" width="100" height="100"> | <h1>Shelson Ferrari</h1> |
 
 - [Versión Portuguesa - pt_br](./README_pt_br.md)
 - [Versión en Inglés - en](./README.md)
