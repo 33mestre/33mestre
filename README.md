@@ -2,6 +2,20 @@
 |---|---|
 | <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"> | <h1>Shelson Ferrari</h1><ul><li><a href="./README_pt_br.md">Portuguese version - pt_br</li><li><a href="./README_es.md">Spanish version - es</li></ul> |
 
+<table border="0">
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"></td>
+    <td>
+      <h1>Shelson Ferrari</h1>
+      <ul>
+        <li><a href="./README_pt_br.md">Portuguese version - pt_br</a></li>
+        <li><a href="./README_es.md">Spanish version - es</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ## Software Engineer | Cloud Architect
 
 > 47 yo, single, Brazilian - São Paulo, Brazil
