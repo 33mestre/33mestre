@@ -1,7 +1,7 @@
 <table>
 <tr><th><img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"></th>
 <th align="left"><p><h1>SHELSON FERRARI</h1></p>
-<p><strong>Curriculum Vitae</strong></p>
+<p><strong>Curriculum Vitae - Versión en español</strong></p>
 <ul><li><a href="./README_pt_br.md">Versión Portuguesa - pt_br</a></li><li><a href="./README.md">Versión en Inglés - en</a></li></ul>
 </th>
 </tr>
