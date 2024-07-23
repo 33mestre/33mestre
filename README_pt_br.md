@@ -7,6 +7,8 @@
 </tr>
 </table>
 
+## Engenheiro de Software | Arquiteto de Nuvem
+
 > 47 anos, solteiro, brasileiro - São Paulo, Brasil
 
 ## Contatos
