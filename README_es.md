@@ -1,6 +1,6 @@
 |   |   |
 |---|---|
-| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"> | <h1>Shelson Ferrari</h1><ul><li><a href="./README_pt_br.md">Versión Portuguesa - pt_br</li><li><a href="./README.md">Versión en Inglés - en</li></ul> |
+| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"> | <h1>Shelson Ferrari</h1><ul><li><a href="./README_pt_br.md">Versión Portuguesa - pt_br</a></li><li><a href="./README.md">Versión en Inglés - en</a></li></ul> |
 
 ## Ingeniero de Software | Arquitecto de Nube
 
