@@ -1,8 +1,11 @@
-|   |   |
-|---|---|
-| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"> | <h1>Shelson Ferrari</h1><ul><li><a href="./README.md">Versão em Inglês - en</a></li><li><a href="./README_es.md">Versão em Espanhol - es</a></li></ul> |
-
-## Engenheiro de Software | Arquiteto de Nuvem
+<table>
+<tr><th><img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"></th>
+<th align="left"><p><h1>SHELSON FERRARI</h1></p>
+<p><strong>Curriculum Vitae</strong></p>
+<ul><li><a href="./README.md">Versão em Inglês - en</a></li><li><a href="./README_es.md">Versão em Espanhol - es</a></li></ul>
+</th>
+</tr>
+</table>
 
 > 47 anos, solteiro, brasileiro - São Paulo, Brasil
 
