@@ -1,11 +1,12 @@
 |   |   |
 |---|---|
-| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari" width="100" height="100"> | <h1>Shelson Ferrari</h1> |
+| <img src="https://avatars.githubusercontent.com/u/5073958?v=4" alt="Shelson Ferrari's GitHub Profile Picture" width="100" height="100"> | <h1>Shelson Ferrari</h1><blockquote><ul><li>47 yo - single</li><li>Brazilian - São Paulo, Brazil</li></ul></blockquote> |
+
 
 - [Portuguese version - pt_br](./README_pt_br.md) 
 - [Spanish version - es](./README_es.md)
 
-**Software Engineer | Cloud Architect**
+## Software Engineer | Cloud Architect
 
 > 47 yo, single, Brazilian - São Paulo, Brazil
 
