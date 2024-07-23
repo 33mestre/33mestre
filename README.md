@@ -151,7 +151,28 @@
 - **Amazon Web Services**: EC2, ECS, Fargate, Lambda, S3, Glacier, RDS, DynamoDB, ElastiCache for Redis, QLDB, Route 53, VPC, SQS, SNS, SES, CloudWatch, API Gateway, CloudFormation, Elastic Beanstalk
 - **Google Cloud Platform**: Compute Engine, GKE, Cloud Run, Cloud Storage, Cloud Storage Coldline, Cloud SQL, MemoryStore for Redis, BigQuery, Cloud DNS, Cloud Pub/Sub, Operations Suite, API Gateway, Cloud Functions
 - **IBM Cloud**: Virtual Servers, Kubernetes Service, Code Engine, Cloud Object Storage, Cold Vault, Db2 on Cloud, IBM Cloud Databases for Redis, IBM Cloud SQL Query, IBM Cloud Internet Services, VPC, IBM Event Streams, IBM Cloud Monitoring with Sysdig, API Connect, IBM Cloud Functions
-- **BPMS / BPM**: Camunda Platform, Camunda Cockpit, Camunda Modeler, Camunda Optimize, Camunda Tasklist, BPMN 2.0, Process Design, Business Process Management
+- **BPMS Camunda**:
+  - **Camunda Platform**: Experience with implementation and configuration of the Camunda Platform for business process automation;
+  - **Camunda Cockpit**: Advanced use of Camunda Cockpit for monitoring, managing, and analyzing running processes;
+  - **Camunda Modeler**: Creation and maintenance of process models using Camunda Modeler, including BPMN, DMN, and CMMN;
+  - **Camunda Optimize**: Implementation of monitoring and optimization solutions with Camunda Optimize, providing detailed insights and reports;
+  - **Camunda Tasklist**: Efficient management of tasks and workflows through Camunda Tasklist, ensuring correct execution of processes;
+  - **Integration with Legacy Systems**: Integration of Camunda with legacy systems and other IT tools to ensure interoperability;
+  - **Plugin and Extension Development**: Development of custom plugins and extensions to meet specific business needs;
+  - **Complex Process Automation**: Projects involving the automation of complex processes using Camunda to improve efficiency and reduce errors;
+  - **Case Management**: Utilization of CMMN (Case Management Model and Notation) for case management with Camunda;
+  - **Performance Monitoring**: Implementation of process performance monitoring practices to ensure continuous quality and efficiency.
+- **BPM**:
+  - **Process Automation**: Specialist in business process automation to increase efficiency and reduce operational costs;
+  - **Workflow Management**: Experience in workflow management to ensure effective execution of business activities;
+  - **BPMN 2.0**: Deep knowledge of BPMN 2.0 for modeling, analyzing, and executing business processes;
+  - **Process Design**: Competence in designing business processes, aligning them with the organization's strategic goals;
+  - **Business Process Management**: Implementation and continuous improvement of business processes using BPM methodologies;
+  - **International Methodologies**: Support for international process mapping methodologies such as BPMN, CMMN, and DMN;
+  - **Process Auditing**: Conducting comprehensive audits of process execution and history to ensure compliance and identify improvements;
+  - **Decision Modeling**: Application of DMN (Decision Model and Notation) for modeling and automating business decisions;
+  - **BPM Tools Integration**: Integration of BPM tools with other corporate systems for more robust process management;
+  - **Process Optimization**: Application of process optimization techniques to improve the efficiency and effectiveness of business processes.
 - **Digital Security**: Management of 2048-bit private keys, TLS v1.2 and v1.3, HTTP/2, Public key pinning, DNSSEC, DANE, SSL Labs Server Test
 - **Development Tools**: Git (GitHub, BitBucket), Jira, Trello, Confluence, Slack, Swagger, Postman, Visual Studio Code, Eclipse, JetBrains IDE, NPM, Maven, PM2, JWT, Serverless, SAM, Gulp, Mongoose, DynaMoose
 - **Distributed Systems**: Amazon SQS, Amazon SNS, Google Cloud Pub/Sub, IBM MQ, IBM Event Streams

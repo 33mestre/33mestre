@@ -150,7 +150,28 @@
 - **Amazon Web Services**: EC2, ECS, Fargate, Lambda, S3, Glacier, RDS, DynamoDB, ElastiCache for Redis, QLDB, Route 53, VPC, SQS, SNS, SES, CloudWatch, API Gateway, CloudFormation, Elastic Beanstalk
 - **Google Cloud Platform**: Compute Engine, GKE, Cloud Run, Cloud Storage, Cloud Storage Coldline, Cloud SQL, MemoryStore for Redis, BigQuery, Cloud DNS, Cloud Pub/Sub, Operations Suite, API Gateway, Cloud Functions
 - **IBM Cloud**: Virtual Servers, Kubernetes Service, Code Engine, Cloud Object Storage, Cold Vault, Db2 on Cloud, IBM Cloud Databases for Redis, IBM Cloud SQL Query, IBM Cloud Internet Services, VPC, IBM Event Streams, IBM Cloud Monitoring with Sysdig, API Connect, IBM Cloud Functions
-- **BPMS / BPM**: Camunda Platform, Camunda Cockpit, Camunda Modeler, Camunda Optimize, Camunda Tasklist, BPMN 2.0, Process Design, Business Process Management
+- **BPMS Camunda**:
+  - **Camunda Platform**: Experiência com implementação e configuração da Camunda Platform para automação de processos de negócios;
+  - **Camunda Cockpit**: Uso avançado do Camunda Cockpit para monitoramento, gerenciamento e análise de processos em execução;
+  - **Camunda Modeler**: Criação e manutenção de modelos de processos utilizando o Camunda Modeler, incluindo BPMN, DMN e CMMN;
+  - **Camunda Optimize**: Implementação de soluções de monitoramento e otimização de processos com Camunda Optimize, fornecendo insights e relatórios detalhados;
+  - **Camunda Tasklist**: Gestão eficiente de tarefas e workflows através do Camunda Tasklist, garantindo a execução correta dos processos;
+  - **Integração com Sistemas Legados**: Integração da Camunda com sistemas legados e outras ferramentas de TI para garantir a interoperabilidade;
+  - **Desenvolvimento de Plugins e Extensões**: Desenvolvimento de plugins personalizados e extensões para atender necessidades específicas de negócios;
+  - **Automação de Processos Complexos**: Projetos de automação de processos complexos utilizando a Camunda para melhorar a eficiência e reduzir erros;
+  - **Gerenciamento de Casos**: Utilização do CMMN (Case Management Model and Notation) para gerenciamento de casos com Camunda;
+  - **Monitoramento de Performance**: Implementação de práticas de monitoramento de performance de processos para assegurar a qualidade e eficiência contínua.
+- **BPM**:
+  - **Automação de Processos**: Especialista em automação de processos de negócios para aumentar a eficiência e reduzir custos operacionais;
+  - **Gerenciamento de Fluxo de Trabalho**: Experiência em gerenciamento de fluxo de trabalho para garantir a execução eficaz das atividades empresariais;
+  - **BPMN 2.0**: Profundo conhecimento em BPMN 2.0 para modelagem, análise e execução de processos de negócios;
+  - **Design de Processos**: Competência em design de processos de negócios, alinhando os mesmos com os objetivos estratégicos da organização;
+  - **Gerenciamento de Processos de Negócio**: Implementação e melhoria contínua de processos de negócios, utilizando metodologias BPM;
+  - **Metodologias Internacionais**: Suporte a metodologias internacionais de mapeamento de processos como BPMN, CMMN e DMN;
+  - **Auditoria de Processos**: Realização de auditorias completas de execução e histórico dos processos para assegurar conformidade e identificar melhorias;
+  - **Modelagem de Decisões**: Aplicação de DMN (Decision Model and Notation) para modelagem e automação de decisões empresariais;
+  - **Integração com Ferramentas BPM**: Integração de ferramentas BPM com outros sistemas corporativos para uma gestão de processos mais robusta;
+  - **Otimização de Processos**: Aplicação de técnicas de otimização de processos para melhorar a eficiência e eficácia dos processos de negócios.
 - **Segurança Digital**: Gestão de chaves privadas de 2048 bits, TLS v1.2 e v1.3, HTTP/2, Public key pinning, DNSSEC, DANE, Teste de Servidor SSL Labs
 - **Ferramentas de Desenvolvimento**: Git (GitHub, BitBucket), Jira, Trello, Confluence, Slack, Swagger, Postman, Visual Studio Code, Eclipse, JetBrains IDE, NPM, Maven, PM2, JWT, Serverless, SAM, Gulp, Mongoose, DynaMoose
 - **Sistemas Distribuídos**: Amazon SQS, Amazon SNS, Google Cloud Pub/Sub, IBM MQ, IBM Event Streams
